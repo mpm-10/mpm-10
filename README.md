@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🔧 Explore customization methods to productvity;
 - ✨ Video editing as a hobby.
 
-<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🌐 Contact With Me
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🛠️ Programming Skills
 
@@ -80,6 +80,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
+
 - ### 🗄️ Databases
 
 <p align="center">
@@ -103,6 +105,8 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=obsidian,figma,notion&theme=dark" />
   </a>
 </p>
+
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 - ### ☁️ Cloud Platforms & Apps
 
@@ -128,21 +132,28 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 📊 Activities & Stats
 
 <div align="center">
   <a href="https://github.com/mpm-10">
-    <img alt="mpm-10's Language Stats" align=left width="48%" src="https://github-readme-stats.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img alt="mpm-10's Top Langs" align=left width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<div align="center">
+    <img alt="mpm-10's Language Stats" align=left width="45%" src="https://github-readme-stats.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img alt="mpm-10's Top Langs" align=left width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  </a>
+</div>
 
 <div align="center">
-	  <a href="https://github.com/mpm-10"><img src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark" alt="mpm-10's GitHub Streak" /></a>
-<div align="center">
+  <a href="https://github.com/mpm-10">
+	  <img alt="mpm-10's GitHub Repository Contribution stats" align=left width="45%" src="https://github-contributor-stats.vercel.app/api?username=mpm-10&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true"/>
+	  <img alt="mpm-10's GitHub Streak" align=left width="45%" src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark"/>
+   </a>
+</div>
+
+<img height="50" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
 [![mpm-10's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mpm-10&bg_color=04001f&color=00cc3d&line=467cfb&point=3f009e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![3D Contribution Profile](profile-3d-contrib/profile-night-rainbow.svg)
+![mpm-10's 3D Contribution Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
