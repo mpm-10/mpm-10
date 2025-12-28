@@ -138,15 +138,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/mpm-10">
-    <img alt="mpm-10's Language Stats" align=left width="45%" src="https://github-readme-stats.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-    <img alt="mpm-10's Top Langs" align=left width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+	<img alt="mpm-10's Top Langs" align=center width="45%" src="https://github-readme-stats-git-master-mpm10-projects.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+    <img alt="mpm-10's Language Stats" align=center width="45%" src="https://github-readme-stats-git-master-mpm10-projects.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/mpm-10">
-	  <img alt="mpm-10's GitHub Repository Contribution stats" align=left width="45%" src="https://github-contributor-stats.vercel.app/api?username=mpm-10&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true"/>
-	  <img alt="mpm-10's GitHub Streak" align=left width="45%" src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark"/>
+	  <img alt="mpm-10's GitHub Repository Contribution stats" align=center width="45%" src="https://github-contributor-stats.vercel.app/api?username=mpm-10&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true"/>
+	  <img alt="mpm-10's GitHub Streak" align=center width="45%" src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark"/>
    </a>
 </div>
 
