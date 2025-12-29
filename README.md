@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=525&lines=Hello+Everyone!+I'm+Matheus!+%F0%9F%91%8B;Welcome+to+my+Personal+Projects!+%F0%9F%93%82;Fullstack+Dev+%F0%9F%92%BB+%26+Data+Scientist+%F0%9F%93%88" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=23&pause=1000&color=00FF00&center=true&vCenter=true&width=525&lines=Hello+Everyone!+I'm+Matheus!+%F0%9F%91%8B;Welcome+to+my+Personal+Projects!+%F0%9F%93%82;Fullstack+Dev+%F0%9F%92%BB+%26+Data+Scientist+%F0%9F%93%88" alt="Typing SVG" /></a>
 </h1>
 <img src="https://github.com/layhak/layhak/raw/main/line-neon.gif" style="width: 1200px; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -138,15 +138,15 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/mpm-10">
-	<img alt="mpm-10's Top Langs" align=center width="45%" src="https://github-readme-stats-git-master-mpm10-projects.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-    <img alt="mpm-10's Language Stats" align=center width="45%" src="https://github-readme-stats-git-master-mpm10-projects.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+	<img alt="mpm-10's Top Langs" align=center width="49%" src="https://github-readme-stats-green-nine-12.vercel.app/api/top-langs/?username=mpm-10&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+	<img alt="mpm-10's GitHub Repository Contribution stats" align=center width="49%" src="https://github-contributor-stats.vercel.app/api?username=mpm-10&limit=6&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/mpm-10">
-	  <img alt="mpm-10's GitHub Repository Contribution stats" align=center width="45%" src="https://github-contributor-stats.vercel.app/api?username=mpm-10&limit=5&theme=chartreuse-dark&order_by=contributions&combine_all_yearly_contributions=true"/>
-	  <img alt="mpm-10's GitHub Streak" align=center width="45%" src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark"/>
+	  <img alt="mpm-10's Language Stats" align=center width="49%" src="https://github-readme-stats-green-nine-12.vercel.app/api?username=mpm-10&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+	  <img alt="mpm-10's GitHub Streak" align=center width="49%" src="https://streak-stats.demolab.com?user=mpm-10&theme=chartreuse-dark"/>
    </a>
 </div>
 
